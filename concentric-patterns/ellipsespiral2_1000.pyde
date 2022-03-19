@@ -19,6 +19,6 @@ def draw():
  if (sizeAll>0):
   sizeAll = sizeAll - 0.05
  else:
-  saveFrame("vangog.png");
+  saveFrame("####vangog.png");
   exit();
  angle = angle + 1
